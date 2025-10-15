@@ -1,4 +1,5 @@
-import { PDFDocument } from 'https://deno.land/x/pdf_lib@v1.17.1/mod.ts';
+import { PDFDocument } from 'https://cdn.skypack.dev/pdf-lib@^1.11.1?dts';
+
 
 // Deno.serve - это встроенный, высокопроизводительный HTTP-сервер в Deno.
 // Идеально подходит для Deno Deploy.
